@@ -5,7 +5,7 @@
 #                                                                              #
 #------------------------------------------------------------------------------#
 set(LOCAL_TEST_SOURCES
-    # ADD ALL TEST SOURCE FILES HERE
+    # \/ === ADD ALL TEST SOURCE FILES HERE === \/
     ${CMAKE_CURRENT_SOURCE_DIR}/test_repeat_hello_world.cpp
     ${CMAKE_SOURCE_DIR}/src/repeat_hello_world/repeat_hello_world.c
     ${CMAKE_CURRENT_SOURCE_DIR}/mocks/hello_world/mock_print_hello_world.c
